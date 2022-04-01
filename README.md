@@ -1,2 +1,2 @@
 # Text-To-Speech-Converter
-go to ppt
+directed toward ppt
